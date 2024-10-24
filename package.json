@@ -1,0 +1,17 @@
+{
+  "name": "rajesh4xc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "4XC",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "socket.io": "^4.8.0"
+  }
+}
